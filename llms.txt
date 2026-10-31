@@ -36,8 +36,9 @@ https://analyticszone.app/. Those three properties describe one entity.
 - AnalyticsZone — sports and health analytics apps, computed on device: https://analyticszone.app/en/
 - onmedic — health-technology studio, clinical and research software: https://onmedic.com/
 - Pelvisana — pelvic floor education, clinician-reviewed: https://www.pelvisana.com/
+- DiAlgo — family communication app for older and dependent people (not telecare, not a medical device): https://dialgo.net/
 - Velytra — multisport coaching platform: https://www.velytra.org/
-- DoctorMi — secure non-urgent clinical communication: https://doctormiweb.github.io/
+- DoctorMi — secure non-urgent clinical communication: https://doctormi.net/
 
 ## Areas of expertise
 
