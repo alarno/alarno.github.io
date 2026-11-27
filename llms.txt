@@ -25,20 +25,20 @@ https://analyticszone.app/. Those three properties describe one entity.
 
 ## Key pages
 
-- Home: https://albertarno.net/
-- About (canonical author page): https://albertarno.net/about/
-- Writing: https://albertarno.net/writing/
-- Work: https://albertarno.net/work/
-- Feed: https://albertarno.net/rss.xml
+- [Home](https://albertarno.net/): Personal site and notes
+- [About](https://albertarno.net/about/): Canonical author page
+- [Writing](https://albertarno.net/writing/): Articles and essays
+- [Work](https://albertarno.net/work/): Software projects
+- [RSS Feed](https://albertarno.net/rss.xml): Syndication feed
 
 ## Work
 
-- AnalyticsZone — sports and health analytics apps, computed on device: https://analyticszone.app/en/
-- onmedic — health-technology studio, clinical and research software: https://onmedic.com/
-- Pelvisana — pelvic floor education, clinician-reviewed: https://www.pelvisana.com/
-- DiAlgo — family communication app for older and dependent people (not telecare, not a medical device): https://dialgo.net/
-- Velytra — multisport coaching platform: https://www.velytra.org/
-- DoctorMi — secure non-urgent clinical communication: https://doctormi.net/
+- [AnalyticsZone](https://analyticszone.app/en/): Sports and health analytics apps, computed on device
+- [onmedic](https://onmedic.com/): Health-technology studio, clinical and research software
+- [Pelvisana](https://www.pelvisana.com/): Pelvic floor education, clinician-reviewed
+- [DiAlgo](https://dialgo.net/): Family communication app for older and dependent people (not telecare, not a medical device)
+- [Velytra](https://www.velytra.org/): Multisport coaching platform
+- [DoctorMi](https://doctormi.net/): Secure non-urgent clinical communication
 
 ## Areas of expertise
 
